@@ -28,6 +28,16 @@ Nesta atividade, os grupos desenvolverão visualizações utilizando Python e re
 * **ipynb** - Código Python para as análises.
 * **presentation.pptx** - Apresentação com as principais descobertas e recomendações.
 
+## Autores
+
+* [**Aline Aparecida**](https://github.com/Alineaps)
+* [**Angélica Salvino**](https://github.com/AngelicaSalvino)
+* [**Evandro Del Bianco**](https://github.com/biancev)
+* [**Eduardo de Luca**](https://github.com/edudeluca)
+* [**Leandro Yesher**](https://github.com/LeandroYesher)
+* [**Reinan**](https://github.com/Reinan-1)
+* [**Simone Leão**](https://github.com/simoneleao)
+
 ## Como contribuir
 
 Para contribuir com este projeto, siga estas etapas:
