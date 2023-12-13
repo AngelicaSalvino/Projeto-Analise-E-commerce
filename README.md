@@ -37,7 +37,7 @@ Nesta atividade, os grupos desenvolverão visualizações utilizando Python e re
 * [**Leandro Yesher**](https://github.com/LeandroYesher)
 * [**Reinan**](https://github.com/Reinan-1)
 * [**Simone Leão**](https://github.com/simoneleao)
-* [**Max Santos**]
+* [**Max Santos**](https://github.com/UFC016)
 
 ## Como contribuir
 
