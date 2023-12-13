@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo aplicar técnicas de análise de dados para extrair insights valiosos para aprimorar as operações de negócios, otimizar a logística e melhorar a experiência do cliente em uma empresa de e-commerce.
 
-O projeto será desenvolvido utilizando o **[[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)]**, um conjunto de dados de e-commerce brasileiro que contém informações sobre vendas, produtos, clientes e logística.
+O projeto será desenvolvido utilizando o **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**, um conjunto de dados de e-commerce brasileiro que contém informações sobre vendas, produtos, clientes e logística.
 
 ## Objetivos
 
@@ -37,6 +37,7 @@ Nesta atividade, os grupos desenvolverão visualizações utilizando Python e re
 * [**Leandro Yesher**](https://github.com/LeandroYesher)
 * [**Reinan**](https://github.com/Reinan-1)
 * [**Simone Leão**](https://github.com/simoneleao)
+* [**Max Santos**]
 
 ## Como contribuir
 
