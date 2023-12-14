@@ -35,7 +35,8 @@ Nesta atividade, os grupos desenvolverão visualizações utilizando Python e re
 * [**Evandro Del Bianco**](https://github.com/biancev)
 * [**Eduardo de Luca**](https://github.com/edudeluca)
 * [**Leandro Yesher**](https://github.com/LeandroYesher)
-* [**Reinan**](https://github.com/Reinan-1)
+* [**Max Santos**](https://github.com/UFC016)
+* [**Reinan Santos**](https://github.com/Reinan-1)
 * [**Simone Leão**](https://github.com/simoneleao)
 * [**Max Santos**](https://github.com/UFC016)
 
