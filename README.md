@@ -67,7 +67,6 @@ streamlit run ./src/main.py
 * [**Max Santos**](https://github.com/UFC016)
 * [**Reinan Santos**](https://github.com/Reinan-1)
 * [**Simone Leão**](https://github.com/simoneleao)
-* [**Max Santos**](https://github.com/UFC016)
 
 ## Como contribuir
 
