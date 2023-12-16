@@ -40,16 +40,13 @@ pip install -r requirements.txt
 ##### 3. Crie um arquivo `.env` na raiz do projeto e adicione as sequintes variáveis de ambiente:
 
 ```
-
 USER=KAGGLE_USERNAME
 KEY=KAGGLE_API_KEY
-
 ```
 ##### 4. Inicie o Streamlit:
 
 ```
 streamlit run ./src/main.py 
-
 ```
 
 
