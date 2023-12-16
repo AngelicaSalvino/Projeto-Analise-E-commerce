@@ -22,6 +22,38 @@ Nesta atividade, os grupos integrarão dados da base OLIST via API e armazenarã
 
 Nesta atividade, os grupos desenvolverão visualizações utilizando Python e replicarão algumas das análises desenvolvidas na primeira atividade com PySpark. Também criarão uma apresentação com as principais descobertas e recomendações baseadas na análise.
 
+## 📖 Instruções de Uso 
+
+##### 1. Clone este repositório para o seu ambiente de desenvolvimento local:
+
+```sh
+git clone https://github.com/AngelicaSalvino/Projeto-Analise-E-commerce.git
+```
+
+##### 2. Navegue até a pasta do projeto e instale as dependências:
+   
+```sh
+cd Projeto-Analise-E-commerce
+pip install -r requirements.txt
+```
+
+##### 3. Crie um arquivo `.env` na raiz do projeto e adicione as sequintes variáveis de ambiente:
+
+```
+
+USER=KAGGLE_USERNAME
+KEY=KAGGLE_API_KEY
+
+```
+##### 4. Inicie o Streamlit:
+
+```
+streamlit run ./src/main.py 
+
+```
+
+
+
 ## Arquivos
 
 * **README.md** - Este arquivo.
