@@ -1,0 +1,7 @@
+kaggle
+pandas
+numpy
+matplotlib
+seaborn
+python-dotenv
+wordcloud
